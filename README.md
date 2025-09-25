@@ -1,21 +1,21 @@
 # AI Project Framework
 
-Un framework générique pour structurer des projets d’IA et de data science.  
-Ce dépôt inclut une organisation type pour gérer les données, les notebooks, les modèles et la documentation.
+A generic framework for structuring AI and data science projects.
+This repository includes a standard organization for managing data, notebooks, models, and documentation.
 
-## 🎯 Objectifs
-- Fournir une base réutilisable pour tout projet de machine learning
-- Faciliter la collaboration (code, notebooks, rapports)
-- Mettre en place de bonnes pratiques (tests, modularité, séparation des données et du code)
+## 🎯 Objectives
+- Provide a reusable foundation for any machine learning project
+- Facilitate collaboration (code, notebooks, reports)
+- Implement best practices (testing, modularity, separation of data and code)
 
 ## 📂 Structure
-- `data/` : données brutes, traitées et externes
-- `notebooks/` : notebooks d’exploration et de modélisation
-- `src/` : code Python modulaire (prétraitement, features, modèles, visualisation)
-- `scripts/` : pipeline principal d’exécution
-- `tests/` : tests unitaires
-- `reports/` : rapports et figures générés
-- `docs/` : documentation du projet
+- `data/`: raw, processed, and external data
+- `notebooks/`: exploration and modeling notebooks
+- `src/`: modular Python code (preprocessing, features, models, visualization)
+- `scripts/`: main execution pipeline
+- `tests/`: unit tests
+- `reports/`: generated reports and figures
+- `docs/`: project documentation
 
 ## ⚙️ Installation
 ```bash
