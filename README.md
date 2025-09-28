@@ -1,9 +1,9 @@
 # AI Project Framework
 
-This repository contains three documents created as part of **project 10 of the Data Scientist training course offered by OpenClassrooms**.
+This repository contains three documents created as part of **project 10 of the Data Scientist training course offered by OpenClassrooms & CentraleSupélec**.
 
 ⚠️ **Important**: This repository reflects personal work carried out by the author as part of a training course.
-It is **in no way affiliated with, endorsed, or officially published by OpenClassrooms**.
+It is **in no way affiliated with, endorsed, or officially published by OpenClassrooms or CentraleSupélec**.
 
 ## 📂 Current Content
 
