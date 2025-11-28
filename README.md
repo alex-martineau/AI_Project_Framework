@@ -1,4 +1,4 @@
-# 🤖 AI Project Framework — Cadrage, conformité & pilotage d’un projet IA
+# 🤖 Réalisation du Cadrage d'un Projet IA
 
 ## 🧩 Présentation du projet
 
